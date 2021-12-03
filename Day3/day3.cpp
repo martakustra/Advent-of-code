@@ -28,6 +28,7 @@ int main() {
     int zero_counter = 0;
     int one_counter = 0;
 
+    //part2
     vector<string> newdata;
     newdata = data;
     vector<string> oxygen_vec;
